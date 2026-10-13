@@ -1,0 +1,11 @@
+# Android release and test packages
+*.apk
+*.aab
+
+# Local signing credentials
+**/key.properties
+**/*.jks
+**/*.keystore
+
+# Locally generated File Manager upload certificate
+APK's (Test,Uploaded and To be Uploaded)/To be Uploaded/xeta-file-manager-upload-certificate.pem
